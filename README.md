@@ -1,6 +1,6 @@
 # K-Means
 
-I used to define a cluster system respecto to randomly initialized particles. Number of particles, centroids are caahangeble by user, also grid size too.
+I used to define a cluster system respecto to arbitrary initialized particles. Number of particles, centroids are caahangeble by user, also grid size too.
 
 Algorithm:
 
