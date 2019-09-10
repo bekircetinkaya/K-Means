@@ -11,7 +11,7 @@ Algorithm:
 5. Repeat from number 2 to 4 until to #particles.
 6. The lowest Cost function is given by best suited centroid position.
 
-Elbow Method: (Choosing Cluster)
+Elbow Method: (Choosing #Cluster)
 
 More suitable number of clusters of a given system, should be found by when the plot of Cost Function vs. Number of Cluster distortion slows down.
 
